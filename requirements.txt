@@ -1,0 +1,6 @@
+langchain
+langchain_community
+pinecone
+sentence-transformers
+transformers
+langchain-pinecone
