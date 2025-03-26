@@ -4,3 +4,5 @@ pinecone
 sentence-transformers
 transformers
 langchain-pinecone
+langchain_openai
+dotenv
